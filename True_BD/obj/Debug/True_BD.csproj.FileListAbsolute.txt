@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\True_BD\True_BD\bin\Debug\True_BD.exe.config
+C:\Users\user\source\repos\True_BD\True_BD\bin\Debug\True_BD.exe
+C:\Users\user\source\repos\True_BD\True_BD\bin\Debug\True_BD.pdb
+C:\Users\user\source\repos\True_BD\True_BD\obj\Debug\True_BD.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\True_BD\True_BD\obj\Debug\True_BD.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\True_BD\True_BD\obj\Debug\True_BD.Form1.resources
+C:\Users\user\source\repos\True_BD\True_BD\obj\Debug\True_BD.Form2.resources
+C:\Users\user\source\repos\True_BD\True_BD\obj\Debug\True_BD.Properties.Resources.resources
+C:\Users\user\source\repos\True_BD\True_BD\obj\Debug\True_BD.csproj.GenerateResource.cache
+C:\Users\user\source\repos\True_BD\True_BD\obj\Debug\True_BD.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\True_BD\True_BD\obj\Debug\True_BD.exe
+C:\Users\user\source\repos\True_BD\True_BD\obj\Debug\True_BD.pdb
+C:\Users\user\source\repos\True_BD\True_BD\obj\Debug\True_BD.Form3.resources
+C:\Users\user\source\repos\True_BD\True_BD\obj\Debug\True_BD.Form5.resources
+C:\Users\user\source\repos\True_BD\True_BD\obj\Debug\True_BD.Form6.resources
